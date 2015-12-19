@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome to my blog!
+disqus: True
 ---
 
 Hello all, my name is Daniel. This will be my blog for now on. I figured that I shouldn't wait until new year to publish
