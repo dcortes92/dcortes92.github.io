@@ -20,7 +20,7 @@ footer-links:
   dribbble:
   email: dcortes1892@gmail.com
   facebook: dcortes92
-  flickr: 
+  flickr:
   github: dcortes92
   instagram:
   linkedin:
@@ -53,7 +53,6 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-markdown: redcarpet
 highlighter: pygments
 permalink: /:title/
 
